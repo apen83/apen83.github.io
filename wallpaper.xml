@@ -1,11 +1,7 @@
 <wallpapers>
 
 
-    <category name="AP" >
-
-        <wallpaper
-            author="AP"
-            url="http://s20.postimg.org/fp1brdf2l/wall_10.jpg" />
+    <category name="Color Flare" >
 
         <wallpaper
             author="AP"
@@ -23,13 +19,18 @@
             author="AP"
             url="http://s20.postimg.org/4hshj9dot/wall_3.jpg" />
 
-        <wallpaper
-            author="AP"
-            url="http://s20.postimg.org/et4ubx5e5/wall_9.jpg" />
+        
+    </category>
+
+    <category name="Bokeh" >
 
         <wallpaper
             author="AP"
             url="http://s20.postimg.org/lxmnkycnh/wall0.jpg" />
+
+        <wallpaper
+            author="AP"
+            url="http://s20.postimg.org/amjzwl5sd/wall_2.jpg" />
 
         <wallpaper
             author="AP"
@@ -39,80 +40,27 @@
             author="AP"
             url="http://s20.postimg.org/x169qjxxp/wall_8.jpg" />
 
+       
+    </category>
+    
+    <category name="DarkS">
+        
         <wallpaper
             author="AP"
-            url="http://s20.postimg.org/amjzwl5sd/wall_2.jpg" />
-
+            url="http://s20.postimg.org/l2rdqt6z1/darkside3.jpg" />
+            
         <wallpaper
-            author="KnokFirst"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo_crazy.jpg" />
-
+            author="AP"
+            url="http://s20.postimg.org/xsvm3wex9/darkside.jpg" />
+            
         <wallpaper
-            author="KnokFirst"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo_light.jpg" />
-
+            author="AP"
+            url="http://s20.postimg.org/f33mn5m6l/darkside2.jpg" />
+            
         <wallpaper
-            author="Just_Reboot"
-            url="http://aokp.co/wallpapers/knokfirst_phlashlogo.jpg" />
-
-        <wallpaper
-            author="kwes1020"
-            url="http://aokp.co/wallpapers/kwes1020_aokpwp1.png" />
-
-        <wallpaper
-            author="kwes1020"
-            url="http://aokp.co/wallpapers/kwes1020_aokpwp2.png" />
+            author="AP"
+            url="http://s20.postimg.org/b808kl30t/darkside4.jpg" />
+            
+            
     </category>
-
-    <category name="Older Wallpapers" >
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_blue.jpg" />
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_green.jpg" />
-
-        <wallpaper
-            author="Bluewall"
-            url="http://aokp.co/wallpapers/bluewall_white_unicorn_and_orange.jpg" />
-
-        <wallpaper
-            author="JaiThemes"
-            url="http://aokp.co/wallpapers/jaithemes_setyourunicornfree.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x1.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x2.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x3.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x4.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x5.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensei_x6.jpg" />
-
-        <wallpaper
-            author="Mobile_Sensei"
-            url="http://aokp.co/wallpapers/mobile_sensi_star.jpg" />
-
-        <wallpaper
-            author="SamsungClay"
-            url="http://aokp.co/wallpapers/samsungclay02.jpg" />
-    </category>
-
 </wallpapers>
