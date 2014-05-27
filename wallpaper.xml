@@ -48,9 +48,6 @@
             author="AP"
             url="http://s20.postimg.org/x169qjxxp/wall_8.jpg" />
             
-         
-         
-         
     </category>
     
     
@@ -80,8 +77,20 @@
             author="AP"
             url="http://s20.postimg.org/tis0stwul/darkside5.jpg" />
        
-          
     </category>
+          
+    
+    <category name="Stainless">
+        
+        <wallpaper
+            author="AP"
+            url="http://s20.postimg.org/n3szw5q4t/stainless_blue.jpg"/>
+            
+        <wallpaper
+            author="AP"
+            url="http://s20.postimg.org/c6ro7e3d9/stainless_dark.jpg"/>
+            
+    </category>      
           
             
 </wallpapers>
