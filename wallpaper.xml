@@ -40,18 +40,22 @@
 
         <wallpaper
             author="AP"
+            name="Bokeh1"
             url="http://s20.postimg.org/lxmnkycnh/wall0.jpg" />
 
         <wallpaper
             author="AP"
+            name="Bokeh2"
             url="http://s20.postimg.org/amjzwl5sd/wall_2.jpg" />
 
         <wallpaper
             author="AP"
+            name="Bokeh3"
             url="http://s20.postimg.org/7h3zk4cjx/wall_13.jpg" />
 
         <wallpaper
             author="AP"
+            name="Bokeh4"
             url="http://s20.postimg.org/x169qjxxp/wall_8.jpg" />
             
     </category>
@@ -60,6 +64,7 @@
         
         <wallpaper
             author="AP"
+            name="BlurS1"
             url="http://s20.postimg.org/rgrjekyvh/blur_1.png"/>
             
     </category>
@@ -69,26 +74,32 @@
         
         <wallpaper
             author="AP"
+            name="DarkS1"
             url="http://s20.postimg.org/cr083ayz1/darkside3.jpg" />
             
         <wallpaper
             author="AP"
+            name="DarkS2"
             url="http://s20.postimg.org/xsvm3wex9/darkside.jpg" />
             
         <wallpaper
             author="AP"
+            name="DarkS3"
             url="http://s20.postimg.org/f33mn5m6l/darkside2.jpg" />
            
          <wallpaper
             author="AP"
+            name="DarkS4"
             url="http://s20.postimg.org/b808kl30t/darkside4.jpg" />    
         
         <wallpaper
             author="AP"
+            name="DarkS5"
             url="http://s20.postimg.org/qfpx3c32l/nexus_skulls.jpg" />
        
        <wallpaper
             author="AP"
+            name="DarkS6"
             url="http://s20.postimg.org/tis0stwul/darkside5.jpg" />
        
     </category>
@@ -98,10 +109,12 @@
         
         <wallpaper
             author="AP"
+            name="Stainless1"
             url="http://s20.postimg.org/n3szw5q4t/stainless_blue.jpg"/>
             
         <wallpaper
             author="AP"
+            name="Stainless2"
             url="http://s20.postimg.org/c6ro7e3d9/stainless_dark.jpg"/>
             
     </category>      
